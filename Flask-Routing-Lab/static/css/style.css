@@ -32,3 +32,17 @@
   background-color: #04AA6D;
   color: white;
 }
+
+#button{
+    border: 3px solid green;
+  padding: 10px;
+  text-align: center;
+}
+#shoes{
+
+  padding: 10px;
+  text-align: left;
+   font-family: initial;
+  
+    padding-right: 80px;
+}
