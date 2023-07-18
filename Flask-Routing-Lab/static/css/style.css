@@ -1,1 +1,34 @@
+.center{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  text-align: center;
+  }  
+  p{
+    font-family: initial;
+    font-optical-sizing: 23px;
+  }
+  .topnav {
+  background-color: lightgoldenrodyellow;
+  overflow: hidden;
+}
 
+.topnav a {
+  float: left;
+  color: darkgreen;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: lightcoral;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
